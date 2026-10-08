@@ -42,13 +42,13 @@
 
 | 维度 | 说明 |
 | --- | --- |
-| 🌐**在线体验** | [mcpetmbti.de5.net](https://mcpetmbti.de5.net/) |
-| 📦**源码仓库** | [MnAuRb/MengChong-pet-MBTI](https://github.com/MnAuRb/MengChong-pet-MBTI) |
-| 💡**核心创意** | 养宠人普遍「爱猫却不懂猫」—— 想更懂自己的宠物，却缺少一个低门槛又有趣味的入口 |
-| 🎯**我的角色** | 独立项目，从0到1完成产品定义与开发：把动物行为学理论转化为20道测试题与四维计分算法，实现测试、AI 画像、分享卡片 |
-| 🏗️**技术栈** | Next.js · React · TypeScript · Tailwind CSS · Supabase · Vercel |
-| 🏆**结果** | v1已上线开源 |
-| 💭**我学到了** | 把方法沉淀成了可复用的产品流程：先用行为学理论立骨架，再用计分算法把它变成可量化的结果，最后用一个愿意被分享的卡片收尾 |
+| 🌐&nbsp;**在&nbsp;线&nbsp;体&nbsp;验** | [mcpetmbti.de5.net](https://mcpetmbti.de5.net/) |
+| 📦&nbsp;**源&nbsp;码&nbsp;仓&nbsp;库** | [MnAuRb/MengChong-pet-MBTI](https://github.com/MnAuRb/MengChong-pet-MBTI) |
+| 💡&nbsp;**核&nbsp;心&nbsp;创&nbsp;意** | 养宠人普遍「爱猫却不懂猫」—— 想更懂自己的宠物，却缺少一个低门槛又有趣味的入口 |
+| 🎯&nbsp;**我&nbsp;的&nbsp;角&nbsp;色** | 独立项目，从0到1完成产品定义与开发：把动物行为学理论转化为20道测试题与四维计分算法，实现测试、AI 画像、分享卡片 |
+| 🏗️&nbsp;**技&nbsp;术&nbsp;栈** | Next.js · React · TypeScript · Tailwind CSS · Supabase · Vercel |
+| 🏆&nbsp;**结&nbsp;果** | v1已上线开源 |
+| 💭&nbsp;**我&nbsp;学&nbsp;到&nbsp;了** | 把方法沉淀成了可复用的产品流程：先用行为学理论立骨架，再用计分算法把它变成可量化的结果，最后用一个愿意被分享的卡片收尾 |
 
 ### 🐱 流浪猫救助系统
 
@@ -56,13 +56,13 @@
 
 | 维度 | 说明 |
 | --- | --- |
-| 🌐**在线体验** | [jiandaomao.vercel.app/forum](https://jiandaomao.vercel.app/forum) |
-| 📦**源码仓库** | [MnAuRb/Picked-up_Stray-cat-rescue-](https://github.com/MnAuRb/Picked-up_Stray-cat-rescue-) |
-| 💡**核心创意** | 捡到流浪猫后第一步怎么办、去哪治、花多少钱、自己养还是送救助站 |
-| 🎯**我的角色** | 团队开发主力，负责全栈：快速产出产品需求文档与技术方案并搭建可演示 Demo，实现地图标注附近救助站与医院、AI识别品种、AI问答助手3大核心功能 |
-| 🏗️**技术栈** | React · Vite · Tailwind CSS · Leaflet · Vercel |
-| 🏆**结果** | 36 小时内完成从需求到可演示 Demo 的交付，团队获**最高人气奖**；赛中 6 轮迭代，从地图原型演进到全栈 AI 问答系统（领域守卫 + 知识库检索 + System Prompt 注入） |
-| 💭**我学到了** | 砍需求：36小时做不完所有事，一个能跑起来的Demo，比一个完美的半成品有价值 |
+| 🌐&nbsp;**在&nbsp;线&nbsp;体&nbsp;验** | [jiandaomao.vercel.app/forum](https://jiandaomao.vercel.app/forum) |
+| 📦&nbsp;**源&nbsp;码&nbsp;仓&nbsp;库** | [MnAuRb/Picked-up_Stray-cat-rescue-](https://github.com/MnAuRb/Picked-up_Stray-cat-rescue-) |
+| 💡&nbsp;**核&nbsp;心&nbsp;创&nbsp;意** | 捡到流浪猫后第一步怎么办、去哪治、花多少钱、自己养还是送救助站 |
+| 🎯&nbsp;**我&nbsp;的&nbsp;角&nbsp;色** | 团队开发主力，负责全栈：快速产出产品需求文档与技术方案并搭建可演示 Demo，实现地图标注附近救助站与医院、AI识别品种、AI问答助手3大核心功能 |
+| 🏗️&nbsp;**技&nbsp;术&nbsp;栈** | React · Vite · Tailwind CSS · Leaflet · Vercel |
+| 🏆&nbsp;**结&nbsp;果** | 36 小时内完成从需求到可演示 Demo 的交付，团队获**最高人气奖**；赛中 6 轮迭代，从地图原型演进到全栈 AI 问答系统（领域守卫 + 知识库检索 + System Prompt 注入） |
+| 💭&nbsp;**我&nbsp;学&nbsp;到&nbsp;了** | 砍需求：36小时做不完所有事，一个能跑起来的Demo，比一个完美的半成品有价值 |
 
 ### 🧠 亲友记忆 Agent
 
@@ -70,12 +70,12 @@
 
 | 维度 | 说明 |
 | --- | --- |
-| 📦**源码仓库** | [Yuki-RM-f/astronaut/tree/jinru](https://github.com/Yuki-RM-f/astronaut/tree/jinru) |
-| 💡**核心创意** | 做「可信验证」而不是「复刻」 — 把AI陪伴从情感口号变成可验证的工程问题 |
-| 🎯**我的角色** | 模块交付 — 可信人格 + 可信记忆 + 可审计、情感状态机与记忆审计面板 |
-| 🏗️**技术亮点** | 结构化人格引擎：10个人格维度，置信度 = f(证据数量, 多模态交叉, 时间一致性)，低置信字段自动降级，persona_version支持版本管理<br>Memory Audit v2：FastAPI + SQLAlchemy分层架构（models/services/schemas/api/tests），8个审计API端点，18类审计事件 × 4级严重度，15个自动化测试 |
-| 🏆**结果** | 独立交付Memory_Audit_v2模块，入选路演前8名 |
-| 💭**我学到了** | 第一次参加黑客松是从角色真空走向独立交付的三天 |
+| 📦&nbsp;**源&nbsp;码&nbsp;仓&nbsp;库** | [Yuki-RM-f/astronaut/tree/jinru](https://github.com/Yuki-RM-f/astronaut/tree/jinru) |
+| 💡&nbsp;**核&nbsp;心&nbsp;创&nbsp;意** | 做「可信验证」而不是「复刻」 — 把AI陪伴从情感口号变成可验证的工程问题 |
+| 🎯&nbsp;**我&nbsp;的&nbsp;角&nbsp;色** | 模块交付 — 可信人格 + 可信记忆 + 可审计、情感状态机与记忆审计面板 |
+| 🏗️&nbsp;**技&nbsp;术&nbsp;亮&nbsp;点** | 结构化人格引擎：10个人格维度，置信度 = f(证据数量, 多模态交叉, 时间一致性)，低置信字段自动降级，persona_version支持版本管理<br>Memory Audit v2：FastAPI + SQLAlchemy分层架构（models/services/schemas/api/tests），8个审计API端点，18类审计事件 × 4级严重度，15个自动化测试 |
+| 🏆&nbsp;**结&nbsp;果** | 独立交付Memory_Audit_v2模块，入选路演前8名 |
+| 💭&nbsp;**我&nbsp;学&nbsp;到&nbsp;了** | 第一次参加黑客松是从角色真空走向独立交付的三天 |
 
 ---
 
